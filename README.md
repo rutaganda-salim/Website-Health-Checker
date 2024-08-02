@@ -17,7 +17,7 @@ This script checks the health of specified websites, including their status, spe
 ## Setup Instructions
 1. Clone the repository
 ```bash
-git clone https://github.com/your-repository/website-health-checker.git
+git clone https://github.com/rutaganda-salim/Website-Health-Checker.git
 cd website-health-checker
 ```
 2. Create a .env in your root directory
