@@ -1,0 +1,24 @@
+Website Health Report
+==================================================
+Date: 2024-08-02 20:03:40
+
+Checking https://instagram.com...
+[UP] https://instagram.com is reachable.
+[SPEED] https://instagram.com loaded in 4.48 seconds.
+[SEO] Title: Instagram
+[SEO] Meta Description: Create an account or log in to Instagram - Share what you're into with the people who get you.
+[SSL] Certificate: {'subject': ((('countryName', 'US'),), (('stateOrProvinceName', 'California'),), (('localityName', 'Menlo Park'),), (('organizationName', 'Meta Platforms, Inc.'),), (('commonName', '*.instagram.com'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('organizationalUnitName', 'www.digicert.com'),), (('commonName', 'DigiCert SHA2 High Assurance Server CA'),)), 'version': 3, 'serialNumber': '095823F9AE3A88658592ABFAC5AFAF57', 'notBefore': 'May 12 00:00:00 2024 GMT', 'notAfter': 'Aug 10 23:59:59 2024 GMT', 'subjectAltName': (('DNS', '*.instagram.com'), ('DNS', '*.cdninstagram.com'), ('DNS', '*.igcdn.com'), ('DNS', '*.igsonar.com'), ('DNS', 'cdninstagram.com'), ('DNS', 'igcdn.com'), ('DNS', 'igsonar.com'), ('DNS', 'instagram.com')), 'OCSP': ('http://ocsp.digicert.com',), 'caIssuers': ('http://cacerts.digicert.com/DigiCertSHA2HighAssuranceServerCA.crt',), 'crlDistributionPoints': ('http://crl3.digicert.com/sha2-ha-server-g6.crl', 'http://crl4.digicert.com/sha2-ha-server-g6.crl')}
+[MOBILE] Mobile-Friendly: Not mobile-friendly
+[BROKEN LINKS] Number of broken links: 0
+[DOMAIN] Domain instagram.com expires on 2033-06-04 13:37:18.
+--------------------------------------------------
+Checking https://salim.vercel.app...
+[UP] https://salim.vercel.app is reachable.
+[SPEED] https://salim.vercel.app loaded in 0.47 seconds.
+[SEO] Title: Portfolio
+[SEO] Meta Description: No meta description
+[SSL] Certificate: {'subject': ((('commonName', '*.vercel.app'),),), 'issuer': ((('countryName', 'US'),), (('organizationName', "Let's Encrypt"),), (('commonName', 'R11'),)), 'version': 3, 'serialNumber': '0391C662A89C473A73AAC6F2D12D222379A9', 'notBefore': 'Jun 14 12:57:45 2024 GMT', 'notAfter': 'Sep 12 12:57:44 2024 GMT', 'subjectAltName': (('DNS', '*.vercel.app'), ('DNS', 'vercel.app')), 'OCSP': ('http://r11.o.lencr.org',), 'caIssuers': ('http://r11.i.lencr.org/',)}
+[MOBILE] Mobile-Friendly: Not mobile-friendly
+[BROKEN LINKS] Number of broken links: 2
+[DOMAIN] Domain salim.vercel.app expires on Unknown.
+--------------------------------------------------
